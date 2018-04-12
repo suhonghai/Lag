@@ -1,0 +1,12 @@
+.history-item {
+    height: 45px;
+    line-height: 45px;
+    font-size: 1.4rem;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 0 23px 0 23px;
+    display: flex;
+    justify-content: space-between;
+}
+.history-item .delicon{
+
+}

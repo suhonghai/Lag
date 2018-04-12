@@ -1,0 +1,13 @@
+.cities-list-item1 li{
+	height: 60px;
+    line-height: 60px;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #333;
+    min-width: 100px;
+}
+.cities-list-item1{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
